@@ -1,0 +1,9 @@
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.vbprojAssemblyReference.cache
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.Dashboard.resources
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.Login.resources
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.vbproj.GenerateResource.cache
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.AssemblyInfoInputs.cache
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.AssemblyInfo.vb
+D:\Projects\VB.NET\uts_semester_2\uts_semester_2\obj\Debug\netcoreapp3.1\uts_semester_2.vbproj.CoreCompileInputs.cache
